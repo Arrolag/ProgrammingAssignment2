@@ -1,6 +1,6 @@
 ## This file contains two functions, makeCacheMatrix and cacheSolve. 
 
-## The function makeCacheMatrix creates an R object that stores a matrix
+## makeCacheMatrix creates an R object that stores a matrix
 ## and its inverse. It does this using four functions: 
 ## set, get, setinv, and getinv.
 
